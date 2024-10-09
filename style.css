@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    background-image: url('devops.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+h1 {
+    color: #ff6600;
+    text-align: center;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
+    margin: 20px;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
